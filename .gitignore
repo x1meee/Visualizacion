@@ -69,3 +69,6 @@ Testing/
 .cache/
 
 .DS_Store
+
+!ProyectoMedioSemestre/models/
+!ProyectoMedioSemestre/models/*.obj
